@@ -1,10 +1,10 @@
-.forMainDiv {
+.forMainDivKeypad {
     /* height: 100%; */
     /* display: flex; */
      /* align-items: center; */
     /*justify-content: center; */
     margin-left:40%;
-    margin-top:15%;
+    margin-top:0%;
   }
 .key {
     width: 78px !important;

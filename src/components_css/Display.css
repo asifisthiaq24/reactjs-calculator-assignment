@@ -1,0 +1,19 @@
+.forMainDivDisplay {
+    /* height: 100%; */
+    /* display: flex; */
+     /* align-items: center; */
+    /*justify-content: center; */
+    margin-left:40%;
+    margin-right:37.4%;
+    margin-top:10%;
+    width: 100 !important;
+    height: 40 !important;
+    background-color: whitesmoke;
+    border: 2px solid #9db3cc;
+    /* border-radius: 30px; */
+  }
+
+.forMainDivDisplay p {
+    font-size: 25px;
+    margin: 5px;
+  }
